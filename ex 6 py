@@ -1,0 +1,3 @@
+r = float(input("please input a radius = "))
+print("\n length = ", 2*3.14* r)
+print("\n area = ", 3.14 *r *r)
