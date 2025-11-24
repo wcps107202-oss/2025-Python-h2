@@ -1,0 +1,10 @@
+username = "admin"
+password = "123456"
+is_active = True
+
+if username =="admin" and password == "123456" and is_active:
+    print("登入成功 !")
+elif not is_active:
+    print("帳號已被停用")
+else:
+    print("使用者名稱或密碼錯誤")
