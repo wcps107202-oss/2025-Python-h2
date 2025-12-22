@@ -1,0 +1,13 @@
+name = "Tom"
+age = 25
+#print(name ,"的年齡是 ",age)
+
+print(f"{name} 的年齡是 {age}")
+
+pi = 3.14159
+print(f"圓周率約為 {pi:.5f}")
+
+P = 899
+print(f" P 為 {P:3d}")
+print(f" P 為 {P:4d}")
+print(f" P 為 {P:5d}")
