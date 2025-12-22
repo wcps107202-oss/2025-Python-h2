@@ -1,0 +1,9 @@
+def square_f(a):
+    return a*a
+    
+a = 9
+b = 6
+print(square_f(a))
+
+square = lambda x: x * x
+print(square(2))
